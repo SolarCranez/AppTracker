@@ -1,5 +1,0 @@
-// data
-public class AppUsageData
-{
-    
-}

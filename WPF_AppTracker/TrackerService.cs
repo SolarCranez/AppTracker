@@ -1,1 +1,0 @@
-// poll active windows
