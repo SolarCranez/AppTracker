@@ -1,0 +1,5 @@
+// data
+public class AppUsageData
+{
+    
+}
